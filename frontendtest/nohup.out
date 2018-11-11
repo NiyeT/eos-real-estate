@@ -1,0 +1,144 @@
+[32minfo[39m: [cli.command.serve]    Files in this directory are available under the following URLs
+      applications: http://127.0.0.1:3000
+      reusable components: http://127.0.0.1:3000/components/frontendtest/
+    
+[32minfo[39m: [cli.command.serve]    Files in this directory are available under the following URLs
+      applications: http://127.0.0.1:3000
+      reusable components: http://127.0.0.1:3000/components/frontendtest/
+    
+[32minfo[39m: [cli.command.serve]    Files in this directory are available under the following URLs
+      applications: http://127.0.0.1:3000
+      reusable components: http://127.0.0.1:3000/components/frontendtest/
+    
+Error { SyntaxError: super() is only valid inside a class constructor. Make sure the method name is spelled exactly as 'constructor'. (91:4)
+    at Parser.raise (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:776:15)
+    at Parser.parseExprAtom (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3004:16)
+    at Parser.parseExprSubscripts (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2757:21)
+    at Parser.parseMaybeUnary (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2736:21)
+    at Parser.parseExprOps (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2643:21)
+    at Parser.parseMaybeConditional (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2615:21)
+    at Parser.parseMaybeAssign (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2562:21)
+    at Parser.parseExpression (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2515:21)
+    at Parser.parseStatementContent (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:4076:21)
+    at Parser.parseStatement (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3962:17) pos: 2015, loc: Position { line: 91, column: 4 } }
+Error { SyntaxError: super() is only valid inside a class constructor. Make sure the method name is spelled exactly as 'constructor'. (91:4)
+    at Parser.raise (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:776:15)
+    at Parser.parseExprAtom (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3004:16)
+    at Parser.parseExprSubscripts (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2757:21)
+    at Parser.parseMaybeUnary (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2736:21)
+    at Parser.parseExprOps (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2643:21)
+    at Parser.parseMaybeConditional (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2615:21)
+    at Parser.parseMaybeAssign (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2562:21)
+    at Parser.parseExpression (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2515:21)
+    at Parser.parseStatementContent (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:4076:21)
+    at Parser.parseStatement (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3962:17) pos: 2015, loc: Position { line: 91, column: 4 } }
+Error { SyntaxError: Unexpected token, expected "," (8:0)
+    at Parser.raise (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:776:15)
+    at Parser.unexpected (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2079:16)
+    at Parser.expect (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2067:28)
+    at Parser.parseExprList (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3800:14)
+    at Parser.parseExprAtom (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3118:30)
+    at Parser.parseExprSubscripts (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2757:21)
+    at Parser.parseMaybeUnary (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2736:21)
+    at Parser.parseExprOps (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2643:21)
+    at Parser.parseMaybeConditional (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2615:21)
+    at Parser.parseMaybeAssign (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2562:21) pos: 119, loc: Position { line: 8, column: 0 } }
+Error { SyntaxError: Unexpected token (119:5)
+    at Parser.raise (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:776:15)
+    at Parser.unexpected (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2079:16)
+    at Parser.parseIdentifierName (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3850:18)
+    at Parser.parseIdentifier (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3832:21)
+    at Parser.parseMaybePrivateName (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3180:19)
+    at Parser.parsePropertyName (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3657:98)
+    at Parser.parseClassPropertyName (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:4866:20)
+    at Parser.parseClassMemberWithIsStatic (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:4783:20)
+    at Parser.parseClassMember (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:4754:10)
+    at Parser.parseClassBody (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:4709:12) pos: 2895, loc: Position { line: 119, column: 5 } }
+Error { SyntaxError: Unexpected token (119:5)
+    at Parser.raise (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:776:15)
+    at Parser.unexpected (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2079:16)
+    at Parser.parseIdentifierName (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3850:18)
+    at Parser.parseIdentifier (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3832:21)
+    at Parser.parseMaybePrivateName (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3180:19)
+    at Parser.parsePropertyName (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3657:98)
+    at Parser.parseClassPropertyName (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:4866:20)
+    at Parser.parseClassMemberWithIsStatic (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:4783:20)
+    at Parser.parseClassMember (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:4754:10)
+    at Parser.parseClassBody (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:4709:12) pos: 2946, loc: Position { line: 119, column: 5 } }
+Error { SyntaxError: Unexpected token (119:5)
+    at Parser.raise (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:776:15)
+    at Parser.unexpected (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2079:16)
+    at Parser.parseIdentifierName (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3850:18)
+    at Parser.parseIdentifier (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3832:21)
+    at Parser.parseMaybePrivateName (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3180:19)
+    at Parser.parsePropertyName (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3657:98)
+    at Parser.parseClassPropertyName (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:4866:20)
+    at Parser.parseClassMemberWithIsStatic (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:4783:20)
+    at Parser.parseClassMember (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:4754:10)
+    at Parser.parseClassBody (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:4709:12) pos: 2949, loc: Position { line: 119, column: 5 } }
+Error { SyntaxError: Unexpected token (104:5)
+    at Parser.raise (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:776:15)
+    at Parser.unexpected (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2079:16)
+    at Parser.parseIdentifierName (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3850:18)
+    at Parser.parseIdentifier (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3832:21)
+    at Parser.parseMaybePrivateName (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3180:19)
+    at Parser.parsePropertyName (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3657:98)
+    at Parser.parseClassPropertyName (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:4866:20)
+    at Parser.parseClassMemberWithIsStatic (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:4783:20)
+    at Parser.parseClassMember (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:4754:10)
+    at Parser.parseClassBody (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:4709:12) pos: 2350, loc: Position { line: 104, column: 5 } }
+Error { SyntaxError: Unexpected token (5:2)
+    at Parser.raise (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:776:15)
+    at Parser.unexpected (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2079:16)
+    at Parser.parseExprAtom (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3157:20)
+    at Parser.parseExprSubscripts (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2757:21)
+    at Parser.parseMaybeUnary (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2736:21)
+    at Parser.parseExprOps (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2643:21)
+    at Parser.parseMaybeConditional (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2615:21)
+    at Parser.parseMaybeAssign (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2562:21)
+    at Parser.parseExpression (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2515:21)
+    at Parser.parseStatementContent (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:4076:21) pos: 236, loc: Position { line: 5, column: 2 } }
+[32minfo[39m: [cli.command.serve]    Files in this directory are available under the following URLs
+      applications: http://127.0.0.1:3000
+      reusable components: http://127.0.0.1:3000/components/frontendtest/
+    
+Error { SyntaxError: Unexpected token (169:4)
+    at Parser.raise (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:776:15)
+    at Parser.unexpected (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2079:16)
+    at Parser.parseObjPropValue (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3645:21)
+    at Parser.parseObj (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3555:12)
+    at Parser.parseExprAtom (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3123:21)
+    at Parser.parseExprSubscripts (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2757:21)
+    at Parser.parseMaybeUnary (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2736:21)
+    at Parser.parseExprOps (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2643:21)
+    at Parser.parseMaybeConditional (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2615:21)
+    at Parser.parseMaybeAssign (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2562:21) pos: 4500, loc: Position { line: 169, column: 4 } }
+Error { SyntaxError: Unexpected token (169:4)
+    at Parser.raise (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:776:15)
+    at Parser.unexpected (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2079:16)
+    at Parser.parseObjPropValue (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3645:21)
+    at Parser.parseObj (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3555:12)
+    at Parser.parseExprAtom (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:3123:21)
+    at Parser.parseExprSubscripts (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2757:21)
+    at Parser.parseMaybeUnary (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2736:21)
+    at Parser.parseExprOps (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2643:21)
+    at Parser.parseMaybeConditional (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2615:21)
+    at Parser.parseMaybeAssign (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/babylon/lib/index.js:2562:21) pos: 4500, loc: Position { line: 169, column: 4 } }
+Error TypeError: undefined: Duplicate declaration "_this"
+  205 |   loadInvestments(_this){
+  206 |     alert('loading')
+> 207 |     const _this=this;
+      |           ^
+  208 |     console.log('this:',_this)
+  209 |     const display=this.root.querySelector('.main-display')
+  210 |     console.log('display:',display)
+    at File.buildCodeFrameError (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/@babel/core/lib/transformation/file/file.js:261:12)
+    at Scope.checkBlockScopedCollisions (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/@babel/traverse/lib/scope/index.js:347:22)
+    at Scope.registerBinding (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/@babel/traverse/lib/scope/index.js:504:16)
+    at Scope.registerDeclaration (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/@babel/traverse/lib/scope/index.js:444:14)
+    at Object.BlockScoped (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/@babel/traverse/lib/scope/index.js:189:28)
+    at Object.newFn (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/@babel/traverse/lib/visitors.js:230:17)
+    at NodePath._call (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/@babel/traverse/lib/path/context.js:53:20)
+    at NodePath.call (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/@babel/traverse/lib/path/context.js:36:14)
+    at NodePath.visit (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/@babel/traverse/lib/path/context.js:88:12)
+    at TraversalContext.visitQueue (/home/villagetreetop/.npm/lib/node_modules/polymer-cli/node_modules/@babel/traverse/lib/context.js:118:16)

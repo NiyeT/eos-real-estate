@@ -1,0 +1,16 @@
+{
+  "name": "frontendtest",
+  "dependencies": {
+    "@polymer/iron-icons": "github:PolymerElements/iron-icons",
+    "@polymer/iron-pages": "github:PolymerElements/iron-pages",
+    "@polymer/paper-button": "github:PolymerElements/paper-button",
+    "@polymer/paper-icon-button": "github:PolymerElements/paper-icon-button",
+    "@polymer/paper-menu-button": "github:PolymerElements/paper-menu-button",
+    "@polymer/polymer": "^3.0.0",
+    "@vaadin/vaadin-icons": "^4.2.1"
+  },
+  "devDependencies": {
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "wct-browser-legacy": "^1.0.0"
+  }
+}

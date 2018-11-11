@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <style>
+      :host {
+        display: block;
+        height:100%;
+        width:100%;
+      }
+      .frame{
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        text-align:center;
+      }
+      .side-menu-left{
+        height:100%;
+        width:20%;
+        background:red;
+      }
+      .main-display{
+        float:right;
+        height:100%;
+        width:80%;
+        background:green;
+        overflow-y:scroll;
+        overflow-x:hidden;
+      }
+      .account-overview{
+        height:60vh;
+        width:100%;
+        background:white;
+      }
+      .account-overview-wrapper{
+        height:50vh;
+        width:100%;
+
+      }
+      .projects{
+        height:60%;
+        width:100%:
+        background:;
+      }
+      .account-overview-center-box{
+        height:50vh;
+        width:50vh;
+        background:;
+      }
+      .account-overview-circle{
+        height:100%;
+        width:100%;
+        border-width:10px;
+        border-style:solid;
+        border-color:black;
+        border-radius:100em;
+      }
+      .projects-labels{
+        height:10%;
+        width:100%;
+
+      }
+      .project-card{
+        height:20%;
+        width:100%;
+        background:blue;
+      }
+      .project-cat{
+        height:100%;
+        width:25%;
+        background:grey;
+        color:black;
+        float:right;
+      }
+      .menu-wrapper{
+        height:20%;
+        width:100%;
+        background:;
+      }
+      a{
+        text-decoration:none;
+        color:white;
+      }
+    </style>
+    <div class="main-display">
+
+      <div class="account-overview frame">
+        <div class="account-overview-wrapper frame">
+          <div class="account-overview-center-box">
+            <div class="account-overview-circle"></div>
+          </div>
+        </div>
+      </div>
+      <div class="projects">
+        <div class="projects-labels">
+        <div class="project-cat project-24_hour_supply frame">
+          <span>24 Hour Supply</span>
+        </div>
+        <div class="project-cat project-Available_Supply frame">
+          <span>Available Supply</span>
+        </div>
+        <div class="project-cat project-Market_Cap frame">
+            <span>Market Cap</span>
+        </div>
+        <div class="project-cat project-name frame">
+        <span>Projects</span>
+        </div>
+        </div>
+      </div>
+
+    </div>
+    <div class="side-menu-left">
+      <div class="frame logo-wrapper menu-wrapper">
+        <a href="http://localhost:3000">
+        <span>Logo</span>
+        </a>
+      </div>
+      <div class="frame projects menu-wrapper">
+        <span >Projects</span>
+        <div style="height:100%;width:20%;background:orange;"></div>
+      </div>
+      <div class="frame my_stats menu-wrapper">
+        <a href="/projects.html"
+          <span>Wallet</span>
+        </a>
+      </div>
+      <div class="frame activity menu-wrapper">
+      <a href="/activity.html"
+        <span>Activity</span>
+      </a>
+      </div>
+    </div>
+
+  </body>
+</html>
